@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GK4", "GK4\GK4.vcxproj", "{A84EC9AF-6F98-4E8D-BEEF-1F4F898A3298}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GK4_2", "GK4_2\GK4_2.vcxproj", "{50CB2C89-9E2D-42ED-AC81-3C169DDFCE13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{A84EC9AF-6F98-4E8D-BEEF-1F4F898A3298}.Release|x64.Build.0 = Release|x64
 		{A84EC9AF-6F98-4E8D-BEEF-1F4F898A3298}.Release|x86.ActiveCfg = Release|Win32
 		{A84EC9AF-6F98-4E8D-BEEF-1F4F898A3298}.Release|x86.Build.0 = Release|Win32
+		{50CB2C89-9E2D-42ED-AC81-3C169DDFCE13}.Debug|x64.ActiveCfg = Debug|x64
+		{50CB2C89-9E2D-42ED-AC81-3C169DDFCE13}.Debug|x64.Build.0 = Debug|x64
+		{50CB2C89-9E2D-42ED-AC81-3C169DDFCE13}.Debug|x86.ActiveCfg = Debug|Win32
+		{50CB2C89-9E2D-42ED-AC81-3C169DDFCE13}.Debug|x86.Build.0 = Debug|Win32
+		{50CB2C89-9E2D-42ED-AC81-3C169DDFCE13}.Release|x64.ActiveCfg = Release|x64
+		{50CB2C89-9E2D-42ED-AC81-3C169DDFCE13}.Release|x64.Build.0 = Release|x64
+		{50CB2C89-9E2D-42ED-AC81-3C169DDFCE13}.Release|x86.ActiveCfg = Release|Win32
+		{50CB2C89-9E2D-42ED-AC81-3C169DDFCE13}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
